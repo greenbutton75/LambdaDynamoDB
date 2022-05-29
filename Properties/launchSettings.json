@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LambdaDynamoDB": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Valentin Kolesov\\.dotnet\\tools\\dotnet-lambda-test-tool-6.0.exe",
+      "commandLineArgs": "--port 5550",
+      "workingDirectory": "C:\\Users\\Valentin Kolesov\\source\\repos\\LambdaDynamoDB\\src\\LambdaDynamoDB\\bin\\Debug\\net6.0"
+    }
+  }
+}
